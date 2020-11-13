@@ -1,0 +1,19 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    content: normal;
+    background-color: white;
+    border: 1px solid green;
+    padding: 10px;
+    margin-right: 5px;
+}
+.block {
+    width: 350px;
+    height: 350px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-right: 5px;
+    float: left;
+}
